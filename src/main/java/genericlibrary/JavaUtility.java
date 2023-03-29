@@ -1,6 +1,7 @@
 package genericlibrary;
 
 import java.sql.Date;
+import java.util.Random;
 
 public class JavaUtility {
 	/**

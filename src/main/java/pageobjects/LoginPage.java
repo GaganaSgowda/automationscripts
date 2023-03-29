@@ -8,6 +8,7 @@ public class LoginPage {
    public LoginPage(WebDriver driver) {
 	   this.driver=driver;
    }
-   @FindBy
+ //  @FindBy(xpath ="")
+ //  pu
    
 }
